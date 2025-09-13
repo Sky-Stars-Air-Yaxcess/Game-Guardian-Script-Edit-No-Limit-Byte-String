@@ -1,5 +1,13 @@
-print('Script Closed')
-print('Author Script Star_Space_Galaxy')
+-- Copyright (c) 2025 Sky-Stars-Air-Yaxcess
+-- Author: Star_Space_Galaxy
+-- Repository: https://github.com/Sky-Stars-Air-Yaxcess/Game-Guardian-Script-Edit-No-Limit-Byte-String
+-- License: GNU General Public License v3.0 (GPL-3.0)
+-- Do not remove this header. All rights reserved under GPL v3.0.
+
+gg.toast('Author Script My YouTube Channel Star_Space_Galaxy')
+gg.toast('Author Script My GitHub Sky-Stars-Air-Yaxcess')
+gg.toast('My GitHub Sky-Stars-Yaxcess')
+gg.toast('My YouTube 2 Channel Star_Space_Local_Yaxcess')
 
 local isScriptRunning = true
 local isMenuVisible = false
