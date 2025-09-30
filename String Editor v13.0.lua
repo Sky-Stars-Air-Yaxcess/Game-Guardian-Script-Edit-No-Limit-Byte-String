@@ -1,17 +1,10 @@
--- Copyright (c) 2025 Sky-Stars-Air-Yaxcess My YouTube Channel Star_Space_Galaxy Channel 2 Star_Space_Local_Yaxcess
--- Repository GitHub: https://github.com/Sky-Stars-Air-Yaxcess/Game-Guardian-Script-Edit-No-Limit-Byte-String
--- License: GNU General Public License v3.0 (GPL-3.0)
--- Do not remove this header. All rights reserved under GNU General Public License v3.0 (GPL-3.0) and Copyright violation (c) 2025
+-- Copyright (c) 2025 :GutHub Sky-Stars-Air-Yaxcess :YouTube my main channel Star_Space_Galaxy my second channel Star_Space_Local_Yaxcess my third channel Star_Y_1_Pro License GNU General Public License v3.0 (GPL-3.0) Do not remove this header. All rights reserved under GNU General Public License v3.0 (GPL-3.0) and Copyright violation (c) 2025 Sky-Stars-Air-Yaxcess my main channel Star_Space_Galaxy my second channel Star_Space_Local_Yaxcess my third channel Star_Y_1_Pro
 
--- My Connact for Gmail y8068723@gmail.com
+-- My contact information: Gmail email address. y8068723@gmail.com
 
--- for clown 👇
+-- This script was created for educational purposes only. Users are solely responsible for how they use it. We respect developers and urge them to fix vulnerabilities. Our goal is not to cause harm, but to promote fair and secure gameplay!
 
--- I haven't stolen any code or script from anyone. That's not true. It's possible that what they're doing is a coincidence—the search and editing of a string in Game Guardian—if you have seen that somewhere else.
-
-gg.toast('Author by: My YouTube Channel Star_Space_Galaxy')
-gg.sleep(600)
-gg.toast('Author by: GitHub Sky-Stars-Air-Yaxcess')
+--the clowns I have never stolen anything from anyone. If you see something similar, it means either someone actually stole from me, or it is a coincidence that it looks alike. It's also possible that we use the same work logic and code, which does not mean I have stolen anything.
 
 local isScriptRunning = true
 local isMenuVisible = false
